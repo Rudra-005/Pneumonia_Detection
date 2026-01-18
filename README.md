@@ -230,19 +230,3 @@ http://localhost:8501/
 
 ---
 
-## 📊 Example Output
-
-**![alt text](UI-Images/FullUI.png)**
-
----
-
-## 📊 Future Enhancements
-
----
-
-## 👨‍💻 Author
-
-**Saurabh Singh**
-🔗 [LinkedIn](https://www.linkedin.com/in/saurabh-singh-621388182/) |
-[Project Link](https://github.com/SaurabhSingh86) |
-[YouTube](https://www.youtube.com/@SaurabhSinghAIML)
