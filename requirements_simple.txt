@@ -1,0 +1,24 @@
+# Core packages
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Deep Learning
+tensorflow
+torch
+torchvision
+ultralytics
+
+# Computer Vision
+opencv-python
+pillow
+pydicom
+
+# Web Framework
+streamlit
+python-multipart
+
+# Utilities
+requests
